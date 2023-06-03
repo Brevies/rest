@@ -6,4 +6,5 @@ import com.nt.entity.Doctor;
 
 public interface IDoctorRepo extends CrudRepository<Doctor, Integer> {
  System.out.println("Hello");
+ System.out.println("Hello");
 }
